@@ -21,4 +21,4 @@ Achieved FID of 16.804 on the Athletic Fields category of the Places 365 dataset
 Effective colorization without the brownish tinge issue of MSE-based methods.
 
 ## Main results
-![Alt Text](Screenshot 2023-08-28 at 17.02.34.png)
+![Alt Text](Results.png)
